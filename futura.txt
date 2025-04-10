@@ -2,6 +2,10 @@ hello
 hariprasad
 Vishnu
 heyy
+<<<<<<< HEAD
 sanath
 lal
 <h1>hello</h1>
+=======
+akhilesh
+>>>>>>> 8f0d75e8f22da6edc81528f316bb7a76cbc14e7a
